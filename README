@@ -1,0 +1,28 @@
+Filter: Interspire
+-------------------------------------------------------------------------------
+
+Version: 1.00
+Author: Brendan Abbott <brendan@bloodbone.ws>
+Build Date: 25 August 2009
+Requirements: Symphony 2.0.6
+
+
+Installation
+-------------------------------------------------------------------------------
+
+1. Enable the extension 'Filter: Interspire Email Marketer'
+
+2. Go to the preferences tab and enter in your Interspire details
+
+3. Add the filter to any events you need
+
+4. Woohoo!
+
+
+Notes
+-------------------------------------------------------------------------------
+The custom field relies on the FieldID value from within the Interspire interface,
+not the name of the field.
+
+The majority of this extension was a patch job of Rowan's Create + Send Filter, so
+a cheerio to him :)
